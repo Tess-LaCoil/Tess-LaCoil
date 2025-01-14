@@ -3,7 +3,7 @@
 Hello! I'm Tess, an applied mathematician and statistician. I'm interested in the use (and mis-use) of mathematical objects as models for real world systems. The systems can be anything from sociology to ecology to quantum mechanics. 
 
 ### Projects
-I have developed a statistical methodology -- the hierarchical Bayesian longitudinal model -- which uses Bayesian methods to fit differential equations to longitudinal data. The method is implemented in [hmde](https://github.com/traitecoevo/hmde) for three different differential equations, and [Here Be Dragons](https://github.com/Tess-LaCoil/hmde-be-dragons) is an in-progress investigation of a statistical issues that arises when the longitudinal model encounteres numerical errors.
+I have developed a statistical methodology -- the hierarchical Bayesian longitudinal model -- which uses Bayesian methods to fit differential equations to longitudinal data. The method is implemented in [hmde](https://github.com/traitecoevo/hmde) for three different differential equations, and [Here Be Dragons](https://github.com/Tess-LaCoil/hmde-be-dragons) is an in-progress investigation of a statistical issue that arises when the longitudinal model encounteres numerical errors.
 
 <!--
 **Tess-LaCoil/Tess-LaCoil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
